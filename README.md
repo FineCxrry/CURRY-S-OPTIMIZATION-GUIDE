@@ -9,5 +9,6 @@
 3. Install Apps <ins>(Optional)</ins>
    - [SpotX](https://github.com/SpotX-Official/SpotX)
    - [Discord](https://discord.com/)
+   - [Telegram](https://telegram.org/)
 
 ### 🎁 **BONUSES**
