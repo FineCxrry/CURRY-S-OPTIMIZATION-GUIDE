@@ -6,7 +6,9 @@
 1. Completely Wipe Computer
    [Windows 10 Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10)
 2. Install [AtlasOS](https://atlasos.net/)
-3. Install Apps <ins>(Optional)</ins>
+3. Optimizations
+   -
+5. Install Apps <ins>(Optional)</ins>
    - [SpotX](https://github.com/SpotX-Official/SpotX)
    - [Discord](https://discord.com/)
    - [Telegram](https://telegram.org/)
@@ -30,4 +32,3 @@
      
 
 ### 🎁 **BONUSES**
-include speedclicker, tgm macro and settings
