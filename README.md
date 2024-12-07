@@ -21,6 +21,7 @@
       - Network & Internet → Proxy → Off
       - Gaming → Game Bar → Off
       - Ease of Access → Display → Off
+      - Desktop → View → Show Desktop Icons Off <ins>(Optional)</ins>
    - **Windows Control Panel**
       - Type "Performance" → Adjust the Appearance and Performance of Windows → Adjust for Best Performance 
    - **Nvidia Control Panel**
