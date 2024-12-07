@@ -18,7 +18,7 @@
 
 
 **BONUSES**
-> ROBLOX FFLAGS:
+ROBLOX FFLAGS:
 > {
   "FLogNetwork": "7",
   "FFlagHandleAltEnterFullscreenManually": "False",
