@@ -7,8 +7,8 @@
    [Windows 10 Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10)
 2. Install [AtlasOS](https://atlasos.net/)
 3. Optimizations
-   - **Settings**
-    - 1.  
+   - **Windows Settings**
+      - 1.
 5. Install Apps <ins>(Optional)</ins>
    - [SpotX](https://github.com/SpotX-Official/SpotX)
    - [Discord](https://discord.com/)
