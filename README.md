@@ -11,7 +11,15 @@
    - Turn on Windows Antivirus after successfully installing AtlasOS
 6. Optimizations
    - **Windows Settings**
-      - 1. type
+      - 1. Personalization → Background → Solid Color
+        2. Personalization → Colors → Transparency Effects → Off
+        3. System → Notification & Actions → Notifications → Off
+        4. Devices → Bluetooth & other devices → Bluetooth → Off
+        5. Network & Internet → Wi-Fi → Off
+        6. Network & Internet → VPN → Off
+        7. Network & Internet → Proxy → Off
+        8. Gaming → Game Bar → Off
+        9. Ease of Access → Display → Off
    - **Nvidia Control Panel**
       - 2. type
 7. Install Apps <ins>(Optional)</ins>
@@ -24,6 +32,7 @@
    - [VSCODE](https://code.visualstudio.com/)
    - [Python 3.12.0](https://www.python.org/downloads/release/python-3120/)
    - [LGHub](https://www.logitechg.com/en-us/innovation/g-hub.html?srsltid=AfmBOor-0aslBw0nkoQl78XDfQgVEu3lrMrEnGTjPAN0Nw2Hiff5dAJ0)
+   - [CCLeaner](https://www.ccleaner.com/ccleaner/download)
 
 8. 🎁 **BONUSES**
    -
