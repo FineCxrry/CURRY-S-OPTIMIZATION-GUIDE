@@ -25,7 +25,6 @@
       - Network & Internet
            - Wi-Fi → Off
            - VPN → Off
-           - Proxy → Off
       - Gaming
            - Game Bar → Off
       - Ease of Access
