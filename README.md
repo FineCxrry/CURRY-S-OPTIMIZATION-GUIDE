@@ -6,7 +6,7 @@
 
 1. Completely Wipe Computer
    - [Windows 10 Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10)
-      - After running Windows 10 Media Creation Tool, Reset this PC through Windows to fully debloat
+      - After running Windows 10 Media Creation Tool, Reset the PC through Windows to fully debloat
       - Run all Updates
         
 2. Install [AtlasOS](https://atlasos.net/)
