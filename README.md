@@ -8,7 +8,9 @@
 2. Install [AtlasOS](https://atlasos.net/)
 3. Optimizations
    - **Windows Settings**
-      - 1.
+      1. type
+   - **Nvidia Control Panel**
+      2. type
 5. Install Apps <ins>(Optional)</ins>
    - [SpotX](https://github.com/SpotX-Official/SpotX)
    - [Discord](https://discord.com/)
