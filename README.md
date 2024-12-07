@@ -27,11 +27,11 @@
    - [Discord](https://discord.com/)
    - [Telegram](https://telegram.org/)
    - [Search Everything](https://www.voidtools.com/downloads/)
-   - [Bloxstrap](https://bloxstrap.org/)
    - [VSCODE](https://code.visualstudio.com/)
    - [Python 3.12.0](https://www.python.org/downloads/release/python-3120/)
    - [LGHub](https://www.logitechg.com/en-us/innovation/g-hub.html?srsltid=AfmBOor-0aslBw0nkoQl78XDfQgVEu3lrMrEnGTjPAN0Nw2Hiff5dAJ0)
    - [CCLeaner](https://www.ccleaner.com/ccleaner/download)
+   - [Bloxstrap](https://bloxstrap.org/)
 
 8. 🎁 **BONUSES**
    -
