@@ -20,6 +20,8 @@
       - 7. Network & Internet → Proxy → Off
       - 8. Gaming → Game Bar → Off
       - 9. Ease of Access → Display → Off
+   - **Windows Control Panel**
+        - Type "Performance" → Adjust the appearance and performance of Windows → Adjust for best performance 
    - **Nvidia Control Panel**
       - 1. ty
 7. Install Apps <ins>(Optional)</ins>
