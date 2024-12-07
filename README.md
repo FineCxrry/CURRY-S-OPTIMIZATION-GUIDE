@@ -10,7 +10,7 @@
       - Run all Updates
         
 2. Install [AtlasOS](https://atlasos.net/)
-   - Turn on Windows Antivirus after successfully installing AtlasOS
+   - Turn on Windows Anti-Virus after successfully installing AtlasOS
      
 3. Optimizations
    - **Windows Settings**
