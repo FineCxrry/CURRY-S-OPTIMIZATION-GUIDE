@@ -21,11 +21,13 @@
       - 8. Gaming → Game Bar → Off
       - 9. Ease of Access → Display → Off
    - **Windows Control Panel**
-        - Type "Performance" → Adjust the Appearance and Performance of Windows → Adjust for Best Performance 
+      - Type "Performance" → Adjust the Appearance and Performance of Windows → Adjust for Best Performance 
    - **Nvidia Control Panel**
       - 1. ty
    - **Google Chrome**
-        - Settings → System → Off
+      - Settings → System → Off
+   - **Discord**
+      -
 7. Install Apps <ins>(Optional)</ins>
    - [SpotX](https://github.com/SpotX-Official/SpotX)
    - [Discord](https://discord.com/)
