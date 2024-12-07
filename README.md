@@ -12,14 +12,14 @@
 6. Optimizations
    - **Windows Settings**
       - 1. Personalization → Background → Solid Color
-        2. Personalization → Colors → Transparency Effects → Off
-        3. System → Notification & Actions → Notifications → Off
-        4. Devices → Bluetooth & other devices → Bluetooth → Off
-        5. Network & Internet → Wi-Fi → Off
-        6. Network & Internet → VPN → Off
-        7. Network & Internet → Proxy → Off
-        8. Gaming → Game Bar → Off
-        9. Ease of Access → Display → Off
+      - 2. Personalization → Colors → Transparency Effects → Off
+      - 3. System → Notification & Actions → Notifications → Off
+      - 4. Devices → Bluetooth & other devices → Bluetooth → Off
+      - 5. Network & Internet → Wi-Fi → Off
+      - 6. Network & Internet → VPN → Off
+      - 7. Network & Internet → Proxy → Off
+      - 8. Gaming → Game Bar → Off
+      - 9. Ease of Access → Display → Off
    - **Nvidia Control Panel**
       - 2. type
 7. Install Apps <ins>(Optional)</ins>
