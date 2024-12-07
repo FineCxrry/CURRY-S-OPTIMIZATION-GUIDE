@@ -13,16 +13,21 @@
    - **Windows Settings**
       - Personalization
            - Background → Solid Color
-      - Personalization → Colors → Transparency Effects → Off
-      - System → Notification & Actions → Notifications → Off
-      - System → Display → Graphics Settings → On
-      - Devices → Bluetooth & other devices → Bluetooth → Off
-      - Network & Internet → Wi-Fi → Off
-      - Network & Internet → VPN → Off
-      - Network & Internet → Proxy → Off
-      - Gaming → Game Bar → Off
-      - Ease of Access → Display → Off
-      - Desktop → View → Show Desktop Icons Off <ins>(Optional)</ins>
+           - Colors → Transparency Effects → Off
+      - System
+           - Notification & Actions → Notifications → Off
+           - Display → Graphics Settings → On
+      - Devices
+           - Bluetooth & other devices → Bluetooth → Off
+      - Network & Internet
+           - Wi-Fi → Off
+           - VPN → Off
+           - Proxy → Off
+      - Gaming
+           - Game Bar → Off
+      - Ease of Access
+           - Display → Off
+      - <ins>(Optional)</ins> Desktop → View → Show Desktop Icons Off
    - **Windows Control Panel**
       - Type "Performance" → Adjust the Appearance and Performance of Windows → Adjust for Best Performance 
    - **Nvidia Control Panel**
