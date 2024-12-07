@@ -21,7 +21,7 @@
       - 8. Gaming → Game Bar → Off
       - 9. Ease of Access → Display → Off
    - **Windows Control Panel**
-        - Type "Performance" → Adjust the appearance and performance of Windows → Adjust for best performance 
+        - Type "Performance" → Adjust the Appearance and Performance of Windows → Adjust for Best Performance 
    - **Nvidia Control Panel**
       - 1. ty
 7. Install Apps <ins>(Optional)</ins>
