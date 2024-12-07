@@ -73,6 +73,7 @@
    - [LGHub](https://www.logitechg.com/en-us/innovation/g-hub.html?srsltid=AfmBOor-0aslBw0nkoQl78XDfQgVEu3lrMrEnGTjPAN0Nw2Hiff5dAJ0)
    - [CCLeaner](https://www.ccleaner.com/ccleaner/download)
    - [Geforce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/download/)
+   - [7-Zip](https://www.7-zip.org/)
    - [Bloxstrap](https://bloxstrap.org/)
 
 5. 🎁 **BONUSES**
