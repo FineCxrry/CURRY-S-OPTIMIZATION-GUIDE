@@ -5,13 +5,14 @@
 ## 👣 **Steps**
 1. Completely Wipe Computer
    [Windows 10 Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10)
-2. Install [AtlasOS](https://atlasos.net/)
-3. Optimizations
+2. Install
+   [AtlasOS](https://atlasos.net/)
+4. Optimizations
    - **Windows Settings**
       - 1. type
    - **Nvidia Control Panel**
       - 2. type
-### Install Apps <ins>(Optional)</ins>
+### 4. Install Apps <ins>(Optional)</ins>
    - [SpotX](https://github.com/SpotX-Official/SpotX)
    - [Discord](https://discord.com/)
    - [Telegram](https://telegram.org/)
