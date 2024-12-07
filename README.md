@@ -8,7 +8,6 @@
 2. Install [AtlasOS](https://atlasos.net/)
 3. Install Apps (Optional)
    >[SpotX](https://github.com/SpotX-Official/SpotX)
-
    >[Discord](https://discord.com/)
 
 ### 🎁 **BONUSES**
