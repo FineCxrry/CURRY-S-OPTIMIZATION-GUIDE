@@ -11,19 +11,19 @@
    - Turn on Windows Antivirus after successfully installing AtlasOS
 6. Optimizations
    - **Windows Settings**
-      - 1. Personalization → Background → Solid Color
-      - 2. Personalization → Colors → Transparency Effects → Off
-      - 3. System → Notification & Actions → Notifications → Off
-      - 4. Devices → Bluetooth & other devices → Bluetooth → Off
-      - 5. Network & Internet → Wi-Fi → Off
-      - 6. Network & Internet → VPN → Off
-      - 7. Network & Internet → Proxy → Off
-      - 8. Gaming → Game Bar → Off
-      - 9. Ease of Access → Display → Off
+      - Personalization → Background → Solid Color
+      - Personalization → Colors → Transparency Effects → Off
+      - System → Notification & Actions → Notifications → Off
+      - Devices → Bluetooth & other devices → Bluetooth → Off
+      - Network & Internet → Wi-Fi → Off
+      - Network & Internet → VPN → Off
+      - Network & Internet → Proxy → Off
+      - Gaming → Game Bar → Off
+      - Ease of Access → Display → Off
    - **Windows Control Panel**
       - Type "Performance" → Adjust the Appearance and Performance of Windows → Adjust for Best Performance 
    - **Nvidia Control Panel**
-      - 1. ty
+      - ty
    - **Google Chrome**
       - Settings → System → Off
    - **Discord**
