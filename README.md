@@ -6,13 +6,15 @@
 1. Completely Wipe Computer
    - [Windows 10 Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10)
       - After running Windows 10 Media Creation Tool, Reset this PC through Windows to fully debloat
+      - Run all Updates
 4. Install [AtlasOS](https://atlasos.net/)
-5. Optimizations
+   - Turn on Windows Antivirus
+6. Optimizations
    - **Windows Settings**
       - 1. type
    - **Nvidia Control Panel**
       - 2. type
-6. Install Apps <ins>(Optional)</ins>
+7. Install Apps <ins>(Optional)</ins>
    - [SpotX](https://github.com/SpotX-Official/SpotX)
    - [Discord](https://discord.com/)
    - [Telegram](https://telegram.org/)
@@ -23,5 +25,5 @@
    - [Python 3.12.0](https://www.python.org/downloads/release/python-3120/)
    - [LGHub](https://www.logitechg.com/en-us/innovation/g-hub.html?srsltid=AfmBOor-0aslBw0nkoQl78XDfQgVEu3lrMrEnGTjPAN0Nw2Hiff5dAJ0)
 
-7. 🎁 **BONUSES**
+8. 🎁 **BONUSES**
    -
