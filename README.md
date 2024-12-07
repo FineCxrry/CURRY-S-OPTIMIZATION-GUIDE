@@ -23,11 +23,11 @@
    - **Windows Control Panel**
       - Type "Performance" → Adjust the Appearance and Performance of Windows → Adjust for Best Performance 
    - **Nvidia Control Panel**
-      - ty
+      - type
    - **Google Chrome**
       - Settings → System → Off
    - **Discord**
-      -
+      - type
 7. Install Apps <ins>(Optional)</ins>
    - [SpotX](https://github.com/SpotX-Official/SpotX)
    - [Discord](https://discord.com/)
