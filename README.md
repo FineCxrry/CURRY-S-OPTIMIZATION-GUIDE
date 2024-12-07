@@ -14,6 +14,7 @@
       - Personalization → Background → Solid Color
       - Personalization → Colors → Transparency Effects → Off
       - System → Notification & Actions → Notifications → Off
+      - System → Display → Graphics Settings → On
       - Devices → Bluetooth & other devices → Bluetooth → Off
       - Network & Internet → Wi-Fi → Off
       - Network & Internet → VPN → Off
