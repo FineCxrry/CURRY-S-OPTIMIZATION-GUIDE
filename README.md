@@ -6,5 +6,7 @@
 1. Completely Wipe Computer
    [Windows 10 Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10)
 2. Install [AtlasOS](https://atlasos.net/)
+3. Install Apps
+   >[SpotX](https://github.com/SpotX-Official/SpotX)
 
 ### 🎁 **BONUSES**
