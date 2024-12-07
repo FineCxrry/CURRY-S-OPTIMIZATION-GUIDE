@@ -42,10 +42,13 @@
            - Use my Preference Emphasizing → Performance
              
    - **Google Chrome**
-      - Settings → System → Off
+      - Settings
+           - System → Off
         
    - **Discord**
-      - type
+      - Settings
+           - Game Overlay → Off
+           - Advanced → Off
         
 4. Install Apps <ins>(Optional)</ins>
    - [SpotX](https://github.com/SpotX-Official/SpotX)
