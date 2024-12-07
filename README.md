@@ -11,7 +11,8 @@
    - Turn on Windows Antivirus after successfully installing AtlasOS
 6. Optimizations
    - **Windows Settings**
-      - Personalization → Background → Solid Color
+      - Personalization
+           - Background → Solid Color
       - Personalization → Colors → Transparency Effects → Off
       - System → Notification & Actions → Notifications → Off
       - System → Display → Graphics Settings → On
@@ -25,7 +26,8 @@
    - **Windows Control Panel**
       - Type "Performance" → Adjust the Appearance and Performance of Windows → Adjust for Best Performance 
    - **Nvidia Control Panel**
-      - type
+      - Adjust image settings with preview → Performance
+      - 
    - **Google Chrome**
       - Settings → System → Off
    - **Discord**
