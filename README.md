@@ -8,7 +8,7 @@
       - After running Windows 10 Media Creation Tool, Reset this PC through Windows to fully debloat
       - Run all Updates
 4. Install [AtlasOS](https://atlasos.net/)
-   - Turn on Windows Antivirus
+   - Turn on Windows Antivirus after successfully installing AtlasOS
 6. Optimizations
    - **Windows Settings**
       - 1. type
