@@ -10,7 +10,6 @@
 ### 🎁 **BONUSES**
 
 ROBLOX FFLAGS:
-![hd-roblox-white-symbol-sign-icon-logo-png-701751694787435ra1r2desi8](https://github.com/user-attachments/assets/bc7cf97d-35c2-476c-80f8-d46a59ceff04)
 
 > {
   "FLogNetwork": "7",
