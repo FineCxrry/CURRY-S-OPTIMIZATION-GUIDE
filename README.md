@@ -18,16 +18,5 @@
    - [Python 3.12.0](https://www.python.org/downloads/release/python-3120/)
    - [LGHub](https://www.logitechg.com/en-us/innovation/g-hub.html?srsltid=AfmBOor-0aslBw0nkoQl78XDfQgVEu3lrMrEnGTjPAN0Nw2Hiff5dAJ0)
 
-
-
-
-
-
-
-
-
-
-
-     
-
-### 🎁 **BONUSES**
+6. 🎁 **BONUSES**
+   -
