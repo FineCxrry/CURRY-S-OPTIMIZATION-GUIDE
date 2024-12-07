@@ -21,12 +21,11 @@
       - 8. Gaming → Game Bar → Off
       - 9. Ease of Access → Display → Off
    - **Nvidia Control Panel**
-      - 2. type
+      - 1. [Install Geforce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/download/)
 7. Install Apps <ins>(Optional)</ins>
    - [SpotX](https://github.com/SpotX-Official/SpotX)
    - [Discord](https://discord.com/)
    - [Telegram](https://telegram.org/)
-   - [Geforce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/download/)
    - [Search Everything](https://www.voidtools.com/downloads/)
    - [Bloxstrap](https://bloxstrap.org/)
    - [VSCODE](https://code.visualstudio.com/)
