@@ -10,8 +10,7 @@
 ### 🎁 **BONUSES**
 
 ROBLOX FFLAGS:
-
-> {
+{
   "FLogNetwork": "7",
   "FFlagHandleAltEnterFullscreenManually": "False",
   "DFFlagDebugRenderForceTechnologyVoxel": "True",
