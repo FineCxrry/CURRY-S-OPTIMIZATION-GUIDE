@@ -1,6 +1,6 @@
 #best guide ever lol 
 
-![behind-scary](https://github.com/user-attachments/assets/bd1b878a-6f17-41b0-947c-4c9ab810b8a2)
+![kitten-cat-stand-paws-punch-sock-kitten](https://github.com/user-attachments/assets/2f78bfb7-2912-4165-9a4e-be6ec3ee9437)
 
 1. Completely Wipe Computer
    [Windows 10 Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10)
