@@ -39,7 +39,20 @@
       - Adjust image settings with preview
            - Use my Preference Emphasizing → Performance
       - Manage 3D Settings
-           - Use my Preference Emphasizing → Performance
+           - Antialiasing - Gamma correction → Off
+           - OpenGL GDI compatibility → Prefer Performance
+           - OpenGL rendering GPU → Select GPU
+           - Power Management Mode → Prefer Maximum Performance
+           - Preferred Refresh Rate → Highest Available
+           - Shader Cache Size → Unlimited
+           - Texture Filtering → High Performance
+           - Threaded Optimization → On
+      - Configure Surround, PhysX
+           - PhysX Settings → Select GPU
+      - Adjust Desktop Size and Position
+           - Scaling Mode → Full-Screen
+           - Perform Scaling On → GPU
+           - Override → On
              
    - **Google Chrome**
       - Settings
