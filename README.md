@@ -46,6 +46,7 @@
         
    - **Discord**
       - type
+        
 4. Install Apps <ins>(Optional)</ins>
    - [SpotX](https://github.com/SpotX-Official/SpotX)
    - [Discord](https://discord.com/)
