@@ -7,6 +7,6 @@
    [Windows 10 Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10)
 2. Install [AtlasOS](https://atlasos.net/)
 
-### 🎁 **BONUSES**
+### **BONUSES**
 
 ROBLOX FFLAGS:
