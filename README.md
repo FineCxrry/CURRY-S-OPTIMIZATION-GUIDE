@@ -9,10 +9,10 @@
       - After running Windows 10 Media Creation Tool, Reset the PC through Windows to fully debloat
       - Run all Updates
         
-2. Install [AtlasOS](https://atlasos.net/)
+2. Install [AtlasOS](https://atlasos.net/) or [ReviOS](https://revi.cc/revios/download)(Untested)
    - Turn on Windows Anti-Virus after successfully installing AtlasOS
      
-3. Optimizations
+4. Optimizations
    - **Windows Settings**
       - Personalization
            - Background → Solid Color
@@ -62,7 +62,7 @@
            - Game Overlay → Off
            - Advanced → Off
         
-4. Install Apps <ins>(Optional)</ins>
+5. Install Apps <ins>(Optional)</ins>
    - [SpotX](https://github.com/SpotX-Official/SpotX)
    - [Discord](https://discord.com/)
    - [Telegram](https://telegram.org/)
@@ -75,5 +75,5 @@
    - [7-Zip](https://www.7-zip.org/)
    - [Bloxstrap](https://bloxstrap.org/)
 
-5. 🎁 **BONUSES**
+6. 🎁 **BONUSES**
    -
