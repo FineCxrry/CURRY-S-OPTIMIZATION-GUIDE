@@ -9,7 +9,7 @@
       - After running Windows 10 Media Creation Tool, Reset the PC through Windows to fully debloat
       - Run all Updates
         
-2. Install [AtlasOS](https://atlasos.net/) or [ReviOS](https://revi.cc/revios/download)(Untested)
+2. Install [AtlasOS](https://atlasos.net/) or [ReviOS](https://revi.cc/revios/download) (Untested)
    - Turn on Windows Anti-Virus after successfully installing AtlasOS
      
 4. Optimizations
