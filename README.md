@@ -76,4 +76,4 @@
    - [Bloxstrap](https://bloxstrap.org/)
 
 6. 🎁 **BONUSES**
-   -
+   - Stay on Windows 11 Default
