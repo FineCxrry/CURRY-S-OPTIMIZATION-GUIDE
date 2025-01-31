@@ -75,6 +75,7 @@
    - [7-Zip](https://www.7-zip.org/)
    - [Bloxstrap](https://bloxstrap.org/)
    - [Snappy Driver Installer](https://sdi-tool.org/)
+   - [HP Drivers](https://support.hp.com/us-en/drivers/omen-desktop-pc-25l-gt12-0000a/model/34385033?sku=9NA81AV&serialnumber=2MD1183W85)
 
 6. 🎁 **BONUSES**
    - Stay on Windows 11 Default
