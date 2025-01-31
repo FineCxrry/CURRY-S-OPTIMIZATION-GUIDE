@@ -74,6 +74,7 @@
    - [Geforce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/download/)
    - [7-Zip](https://www.7-zip.org/)
    - [Bloxstrap](https://bloxstrap.org/)
+   - [Snappy Driver Installer](https://sdi-tool.org/)
 
 6. 🎁 **BONUSES**
    - Stay on Windows 11 Default
